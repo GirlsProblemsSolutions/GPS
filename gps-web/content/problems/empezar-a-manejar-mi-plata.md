@@ -1,7 +1,7 @@
 ---
 title: Empezar a manejar mi plata
 category: finanzas
-status: draft
+status: published
 featured: false
 updated: 2026-10-12
 ---
