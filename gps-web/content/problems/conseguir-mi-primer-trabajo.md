@@ -1,15 +1,12 @@
 ---
-title: 'Conseguir mi primer trabajo'
+title: Conseguir mi primer trabajo
 category: laboral
-status: published
+status: draft
 featured: true
-description: 'Tu primer laburo no tiene por qué ser un misterio. Por dónde empezar, dónde buscar y cómo organizarte sin mandar 300 CV a ciegas.'
-cover: ''
-video: ''
-downloadable: ''
-updated: '2026-10-09'
+description: Tu primer laburo no tiene por qué ser un misterio. Por dónde
+  empezar, dónde buscar y cómo organizarte sin mandar 300 CV a ciegas.
+updated: 2026-10-09
 ---
-
 ## Primero: ¿qué estás buscando realmente?
 
 Antes de abrir veinte pestañas, anotá tres cosas: qué tareas te gustaría hacer, cuántas horas podés trabajar y qué modalidad necesitás. No hace falta tener decidido tu futuro entero: necesitás una primera dirección.
