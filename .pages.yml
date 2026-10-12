@@ -3,6 +3,42 @@ media:
   output: /media
   rename: safe
 content:
+  - name: universes
+    label: Portadas de universos
+    type: collection
+    path: gps-web/content/universes
+    filename: "{primary}.md"
+    view:
+      fields: [name, title, num]
+      primary: name
+      sort: [num]
+    fields:
+      - name: slug
+        label: Slug del universo (no cambiar salvo necesidad)
+        type: string
+        required: true
+      - name: name
+        label: Nombre interno del universo
+        type: string
+        required: true
+      - name: title
+        label: Texto visible en la portada
+        type: string
+        required: true
+      - name: num
+        label: Número de orden (01, 02, 03...)
+        type: string
+        required: true
+      - name: image
+        label: Imagen de portada
+        type: image
+        required: true
+      - name: pillcolor
+        label: Color de la pastilla
+        type: string
+      - name: titlecolor
+        label: Color del texto de la pastilla
+        type: string
   - name: problems
     label: Guías y problemas
     type: collection
