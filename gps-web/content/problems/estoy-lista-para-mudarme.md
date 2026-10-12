@@ -1,15 +1,12 @@
 ---
-title: '¿Estoy lista para mudarme?'
+title: ¿Estoy lista para mudarme?
 category: independiente
-status: published
+status: draft
 featured: true
-description: 'Mudarte puede ser un sueño; descubrir cuánto cuesta, no tanto. Te ayudamos a ordenar los números y las preguntas antes de decidir.'
-cover: ''
-video: ''
-downloadable: ''
-updated: '2026-10-09'
+description: Mudarte puede ser un sueño; descubrir cuánto cuesta, no tanto. Te
+  ayudamos a ordenar los números y las preguntas antes de decidir.
+updated: 2026-10-09
 ---
-
 ## Hacé números antes de hacer cajas
 
 Calculá el costo mensual completo: vivienda, expensas, servicios, transporte, comida, conectividad y gastos habituales. Sumá un margen para imprevistos.
