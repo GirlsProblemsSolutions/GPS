@@ -1,5 +1,5 @@
 ---
-title: Empezar a manejar mi plata
+title: Cómo organizo mi plata
 category: finanzas
 status: published
 featured: false
