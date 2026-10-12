@@ -9,7 +9,7 @@ updated: 2026-10-12
 
 Te rompes el lomo trabajando pero cuando llegas a fin de mes no sabes en qué se te fue la plata. Como tu GPS en esta locura que es la vida adulta, te traemos una herramienta que a nosotras nos sirvió mucho y como amigas tuyas creemos que te puede servir también.
 
-La clave para entender en qué gastas es documentar cuánto entra y cuánto sale, sin esa información no hay paso siguiente que podamos dar (como por ejemplo ++en qué invertir++).  
+La clave para entender en qué gastas es documentar cuánto entra y cuánto sale, sin esa información no hay paso siguiente que podamos dar (como por ejemplo en qué invertir).  
 
 
 ### 2. ¿Qué necesito saber?
@@ -60,9 +60,8 @@ Si todos los meses gastás en salir, pedir comida o hacerte las uñas, poner $0 
 
 Descargá esta plantilla y anotá todo lo que charlamos en los pasos anteriores.
 
-++[https://docs.google.com/spreadsheets/d/1dkNSRymoY2JMI5xELC4jTeWvNumQ5PKCbnbUAf4-R_0/edit?gid=1732160294#gid=1732160294](https://docs.google.com/spreadsheets/d/1dkNSRymoY2JMI5xELC4jTeWvNumQ5PKCbnbUAf4-R_0/edit?gid=1732160294#gid=1732160294)++
+[https://docs.google.com/spreadsheets/d/1dkNSRymoY2JMI5xELC4jTeWvNumQ5PKCbnbUAf4-R_0/edit?gid=1732160294#gid=1732160294](https://docs.google.com/spreadsheets/d/1dkNSRymoY2JMI5xELC4jTeWvNumQ5PKCbnbUAf4-R_0/edit?gid=1732160294#gid=1732160294)
 
 
 
-### 6. Ya entendí esto. ¿Qué sigue?
-
+¡Esperamos que haya sido de mucha ayuda! Te recomendamos mirar la sección "Seguí explorando" a la derecha para encontrar más información
