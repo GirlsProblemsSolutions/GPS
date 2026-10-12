@@ -1,15 +1,12 @@
 ---
-title: 'Tarjetas de crédito'
+title: Tarjetas de crédito
 category: finanzas
-status: published
+status: draft
 featured: true
-description: 'Amiga, el límite no es plata gratis. Una guía para entender el resumen, las fechas y qué pasa cuando pagás menos del total.'
-cover: ''
-video: ''
-downloadable: ''
-updated: '2026-10-09'
+description: Amiga, el límite no es plata gratis. Una guía para entender el
+  resumen, las fechas y qué pasa cuando pagás menos del total.
+updated: 2026-10-09
 ---
-
 ## Primero lo primero: ¿qué estás usando?
 
 Una tarjeta de crédito te permite financiar consumos que después tenés que pagar según las condiciones del banco o entidad emisora. No es un ingreso extra.
